@@ -1,0 +1,6 @@
+apiVersion: v2
+name: my-nginx-chart
+description: This chart is created for testing purpose
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
